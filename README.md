@@ -20,6 +20,6 @@
 
 ## What's more
 
-If you want to convert the slides (or images) to a pdf file further, then I recommand my repository [img2pdf_in_batches](https://github.com/GYC-lab/img2pdf_in_batches).
+If you want to convert the slides (or images) to a pdf file further, then I strongly recommand my repository [img2pdf_in_batches](https://github.com/GYC-lab/img2pdf_in_batches).
 which may ease you from a lot cliks on Adobe Acrobat.
 
