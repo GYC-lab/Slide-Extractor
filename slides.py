@@ -45,9 +45,10 @@ def video2slide(input_video,final_directory,perc,ch):
             f=0
         bar.update(i+1)
         i=i+1
-    print("capture %d slides"%sl_count)
+    
     bar.finish()
     cap.release()
+    print("capture %d slides"%sl_count)
 
 if __name__ == "__main__":
     
