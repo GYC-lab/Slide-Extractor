@@ -54,7 +54,7 @@ if __name__ == "__main__":
     
     folderpath = os.getcwd()
     path_in = folderpath + "\input_video\\"
-    path_out = folderpath + "\output_silde\\"
+    path_out = folderpath + "\output_slide\\"
     files = os.listdir(path_in)
 
     perc=0.25   
